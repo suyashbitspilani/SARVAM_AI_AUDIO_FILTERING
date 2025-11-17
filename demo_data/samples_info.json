@@ -1,0 +1,122 @@
+[
+  {
+    "file": "demo_data/sample_000_good_quality.wav",
+    "type": "good_quality",
+    "duration": 5.0,
+    "expected_result": "accept"
+  },
+  {
+    "file": "demo_data/sample_001_noisy.wav",
+    "type": "noisy",
+    "duration": 4.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_002_silent.wav",
+    "type": "silent",
+    "duration": 6.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_003_clipped.wav",
+    "type": "clipped",
+    "duration": 3.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_004_good_quality.wav",
+    "type": "good_quality",
+    "duration": 5.0,
+    "expected_result": "accept"
+  },
+  {
+    "file": "demo_data/sample_005_noisy.wav",
+    "type": "noisy",
+    "duration": 4.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_006_silent.wav",
+    "type": "silent",
+    "duration": 6.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_007_clipped.wav",
+    "type": "clipped",
+    "duration": 3.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_008_good_quality.wav",
+    "type": "good_quality",
+    "duration": 5.0,
+    "expected_result": "accept"
+  },
+  {
+    "file": "demo_data/sample_009_noisy.wav",
+    "type": "noisy",
+    "duration": 4.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_010_silent.wav",
+    "type": "silent",
+    "duration": 6.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_011_clipped.wav",
+    "type": "clipped",
+    "duration": 3.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_012_good_quality.wav",
+    "type": "good_quality",
+    "duration": 5.0,
+    "expected_result": "accept"
+  },
+  {
+    "file": "demo_data/sample_013_noisy.wav",
+    "type": "noisy",
+    "duration": 4.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_014_silent.wav",
+    "type": "silent",
+    "duration": 6.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_015_clipped.wav",
+    "type": "clipped",
+    "duration": 3.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_016_good_quality.wav",
+    "type": "good_quality",
+    "duration": 5.0,
+    "expected_result": "accept"
+  },
+  {
+    "file": "demo_data/sample_017_noisy.wav",
+    "type": "noisy",
+    "duration": 4.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_018_silent.wav",
+    "type": "silent",
+    "duration": 6.0,
+    "expected_result": "reject"
+  },
+  {
+    "file": "demo_data/sample_019_clipped.wav",
+    "type": "clipped",
+    "duration": 3.0,
+    "expected_result": "reject"
+  }
+]
