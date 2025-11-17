@@ -10,6 +10,15 @@ This pipeline provides a comprehensive solution for filtering low-quality audio 
 
 The implementation focuses on three key aspects: robust quality assessment through multiple metrics, scalable parallel processing for production workloads, and interpretable outputs that explain filtering decisions.
 
+
+
+
+
+
+
+<img width="4770" height="3605" alt="image" src="https://github.com/user-attachments/assets/0372f254-38aa-469e-b41d-ecdd77d5b091" />
+
+
 ## Approach
 
 ### Quality Metrics
