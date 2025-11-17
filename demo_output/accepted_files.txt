@@ -1,0 +1,10 @@
+demo_data/sample_003_clipped.wav
+demo_data/sample_000_good_quality.wav
+demo_data/sample_007_clipped.wav
+demo_data/sample_004_good_quality.wav
+demo_data/sample_008_good_quality.wav
+demo_data/sample_011_clipped.wav
+demo_data/sample_015_clipped.wav
+demo_data/sample_012_good_quality.wav
+demo_data/sample_016_good_quality.wav
+demo_data/sample_019_clipped.wav

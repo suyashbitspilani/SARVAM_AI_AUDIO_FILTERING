@@ -1,0 +1,10 @@
+demo_data/sample_001_noisy.wav	Low SNR: 0.52 dB; Low dynamic range: 3.83 dB
+demo_data/sample_002_silent.wav	Too much silence: 49.07%
+demo_data/sample_005_noisy.wav	Low SNR: 0.55 dB; Low dynamic range: 3.72 dB
+demo_data/sample_006_silent.wav	Too much silence: 49.07%
+demo_data/sample_009_noisy.wav	Low SNR: 0.46 dB; Low dynamic range: 3.77 dB
+demo_data/sample_010_silent.wav	Too much silence: 49.07%
+demo_data/sample_013_noisy.wav	Low SNR: 0.55 dB; Low dynamic range: 4.05 dB
+demo_data/sample_014_silent.wav	Too much silence: 49.07%
+demo_data/sample_017_noisy.wav	Low SNR: 0.46 dB; Low dynamic range: 3.96 dB
+demo_data/sample_018_silent.wav	Too much silence: 49.07%
