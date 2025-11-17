@@ -1,0 +1,19 @@
+{
+  "sample_rate": 16000,
+  "thresholds": {
+    "min_snr_db": 12.0,
+    "max_silence_ratio": 0.35,
+    "max_clipping_ratio": 0.01,
+    "min_rms_energy": 0.015,
+    "min_dynamic_range_db": 15.0,
+    "min_duration_sec": 0.5,
+    "max_duration_sec": 10.0
+  },
+  "weights": {
+    "snr": 0.30,
+    "silence": 0.20,
+    "clipping": 0.20,
+    "dynamic_range": 0.15,
+    "rms": 0.15
+  }
+}
